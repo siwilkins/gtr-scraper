@@ -35,7 +35,7 @@ So, if you were to search for projects which mention "dementia" funded by the MR
 
 ## Examples
 
-### Get projects which mention "dementia" which are funded by MRC
+### Get projects mentioning "dementia" which are funded by MRC
         ruby gtr-scraper.rb http://gtr.rcuk.ac.uk/search/project?term=dementia&selectedFacets=ZnVuZGVyfG1yY3xzdHJpbmc=&page=1&fetchSize=25&selectedSortableField=&selectedSortOrder=&fields=pro.id,pro.t,pro.a,per.fn,per.on,per.sn,per.fnsn,per.org.n,per.pro.t,per.pro.abs,pub.t,pub.a,org.n
  
   
