@@ -1,3 +1,8 @@
+#
+# Copyright (C) 2014 Simon Wilkins
+# License: http://www.gnu.org/licenses/gpl.html GPL version 2 or higher
+#
+
 # This class is responsible for fetching the addresses of fundee organisations
 class FundeeAddressFetcher
 
