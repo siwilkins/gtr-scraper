@@ -4,7 +4,8 @@ gtr-scraper
 A simple ruby tool for producing JSON output of Gateway to Research project search results
 
 # Requirements
-ruby >=1.9
+
+* ruby >=1.9
 
 # Installation
 
