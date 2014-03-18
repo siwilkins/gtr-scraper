@@ -35,7 +35,7 @@ class GtrScraper
 
     end while !finished
 
-    results.json
+    results.to_json
   end
 
 end
